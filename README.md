@@ -386,6 +386,4 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ```
 
 ## Copyright
-```asciidoc
 © Bonity, 2023. All rights reserved.
-```
